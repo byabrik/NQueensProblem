@@ -1,6 +1,0 @@
-D:\Repositories\NQueensProblem\NQueensProblem\NQueensProblem\bin\Debug\NQueensProblem.exe.config
-D:\Repositories\NQueensProblem\NQueensProblem\NQueensProblem\bin\Debug\NQueensProblem.exe
-D:\Repositories\NQueensProblem\NQueensProblem\NQueensProblem\bin\Debug\NQueensProblem.pdb
-D:\Repositories\NQueensProblem\NQueensProblem\NQueensProblem\obj\Debug\NQueensProblem.csprojResolveAssemblyReference.cache
-D:\Repositories\NQueensProblem\NQueensProblem\NQueensProblem\obj\Debug\NQueensProblem.exe
-D:\Repositories\NQueensProblem\NQueensProblem\NQueensProblem\obj\Debug\NQueensProblem.pdb
